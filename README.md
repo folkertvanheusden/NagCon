@@ -9,4 +9,7 @@ Need help?
 will give you a list of possible switches.
 
 
+![screendump](https://vanheusden.com/monitoring/nagcon/nagcon.jpg)
+
+
 --- folkert@vanheusden.com
